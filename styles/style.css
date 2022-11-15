@@ -113,7 +113,10 @@ hr{
 
     color: #DD5A77;
     background-color: #FFE3EB;
-    border-radius: 10px;
+    border-radius: 15px;
+    padding: 4px;
+    width: 80px;
+    height: 25px;
     
 }
 
